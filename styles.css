@@ -54,7 +54,7 @@ main #about h2 {
 main #about picture {
     width: 100%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 1rem;
 }
 
 main #about img {
@@ -63,6 +63,7 @@ main #about img {
     border-radius: 8px;
     padding:1rem;
 }
+
 
 main #about p {
     margin-top: 10px;
